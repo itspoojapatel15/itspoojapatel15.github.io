@@ -1,0 +1,222 @@
+{
+  "_instructions": "Add your projects here. Each project should showcase your work.",
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Cloud Data Warehousing with Snowflake & AWS",
+      "description": "Engineered a cloud native data warehouse on Snowflake with AWS S3, implementing automated Snowpipe ingestion and IAM-secured storage integration for Tesla sales streaming data. Deployed AWS QuickSight dashboards tracking 5+ real-time KPIs for business intelligence, reducing manual reporting effort by 35% through serverless compute optimization.",
+      "technologies": [
+        "Snowflake",
+        "AWS S3",
+        "Snowpipe",
+        "AWS QuickSight"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Retail Data Analytics — Python & SQL Integration",
+      "description": "Designed an end-to-end ETL pipeline using Pandas, NumPy, and SQL Server to extract, clean, and analyze 100K+ retail sales records, identifying top 10 revenue products and key customer purchasing patterns. Delivered 8+ actionable insights on inventory optimization and customer segmentation across 4 product categories.",
+      "technologies": [
+        "Pandas",
+        "NumPy",
+        "SQL Server"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Insurance Analytics Dashboard",
+      "description": "Developed interactive Power BI dashboards with 10+ advanced DAX measures to analyze 3 insurance policy types, claim patterns, and smoker vs. non-smoker risk segmentation across 5,000+ records for underwriting optimization.",
+      "technologies": [
+        "Power BI",
+        "DAX"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Global Cybersecurity Threat Analysis",
+      "description": "Constructed interactive Power BI dashboards visualizing global cybersecurity trends (2015–2024), including malware types, attack vectors, and high-risk regions. Integrated and transformed 9 years of multi-source cybersecurity datasets covering 50+ countries.",
+      "technologies": [
+        "Power BI"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Healthcare Financial Performance Analysis",
+      "description": "Integrated 5+ CMS datasets and conducted regression analysis to assess U.S. nursing home financial performance (2015–2021), revealing a 1,178% net income increase in larger facilities during COVID-19. Visualized 6+ penalty trends, staffing metrics, and quality indicators across 1,000+ facilities.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Starbucks Consumer Behavior Analysis",
+      "description": "Managed end-to-end analytics pipeline from web scraping to stakeholder presentation using RStudio; created 4+ geospatial maps across 10+ regions to surface key consumer trends.",
+      "technologies": [
+        "RStudio",
+        "leaflet",
+        "ggplot2"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Indian Cricket Team Performance Analysis",
+      "description": "Extracted 10+ years of cricket data from 5 sources via Python/R web scraping; applied Random Forest, regression, and hypothesis testing to evaluate efficiency metrics (PER, Win Shares) across 50+ players.",
+      "technologies": [
+        "Python",
+        "R",
+        "Random Forest"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "github-repository-intelligence",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "HTML",
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/github-repository-intelligence",
+      "demo": "https://github.com/itspoojapatel15/github-repository-intelligence"
+    },
+    {
+      "title": "nyc-taxi-data-lake-gcp",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "HTML",
+        "Python",
+        "HCL",
+        "Shell"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/nyc-taxi-data-lake-gcp",
+      "demo": "https://github.com/itspoojapatel15/nyc-taxi-data-lake-gcp"
+    },
+    {
+      "title": "multi-source-marketing-analytics",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/multi-source-marketing-analytics",
+      "demo": "https://github.com/itspoojapatel15/multi-source-marketing-analytics"
+    },
+    {
+      "title": "ecommerce-lakehouse-medallion",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/ecommerce-lakehouse-medallion",
+      "demo": "https://github.com/itspoojapatel15/ecommerce-lakehouse-medallion"
+    },
+    {
+      "title": "realtime-stock-market-pipeline",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/realtime-stock-market-pipeline",
+      "demo": "https://github.com/itspoojapatel15/realtime-stock-market-pipeline"
+    },
+    {
+      "title": "youtube-trending-etl-aws",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "HTML",
+        "Python",
+        "HCL"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/youtube-trending-etl-aws",
+      "demo": "https://github.com/itspoojapatel15/youtube-trending-etl-aws"
+    },
+    {
+      "title": "spotify-listening-analytics",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "HTML",
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/itspoojapatel15/spotify-listening-analytics",
+      "demo": "https://github.com/itspoojapatel15/spotify-listening-analytics"
+    },
+    {
+      "title": "retail-data-analytics-project-python-sql-integration",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/retail-data-analytics-project-python-sql-integration",
+      "demo": "https://github.com/itspoojapatel15/retail-data-analytics-project-python-sql-integration"
+    },
+    {
+      "title": "itspoojapatel15.github.io",
+      "description": "Professional portfolio for itspoojapatel15",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/itspoojapatel15.github.io",
+      "demo": "https://github.com/itspoojapatel15/itspoojapatel15.github.io"
+    },
+    {
+      "title": "insurance-analytics-powerbi",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/insurance-analytics-powerbi",
+      "demo": "https://github.com/itspoojapatel15/insurance-analytics-powerbi"
+    },
+    {
+      "title": "realtime-warehousing-with-snowflake",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/realtime-warehousing-with-snowflake",
+      "demo": "https://github.com/itspoojapatel15/realtime-warehousing-with-snowflake"
+    },
+    {
+      "title": "supply-chain-analysis-capstone-project",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/supply-chain-analysis-capstone-project",
+      "demo": "https://github.com/itspoojapatel15/supply-chain-analysis-capstone-project"
+    },
+    {
+      "title": "nursing-home-financial-analysis",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/itspoojapatel15/nursing-home-financial-analysis",
+      "demo": "https://github.com/itspoojapatel15/nursing-home-financial-analysis"
+    }
+  ]
+}

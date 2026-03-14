@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "POOJA PATEL",
+    "title": "Data Analyst",
+    "bio": "Data Analyst with 3+ years of experience leveraging Python, SQL, Tableau, and Power BI to deliver data-driven insights. Led database optimization initiatives at Accenture, improving data retrieval speed by 40%. At PennyMac, reduced loan processing time by 20% by deploying machine learning models and optimizing data workflows. Architected real-time data warehouse integrating Snowflake with AWS S3 for Tesla sales data, showcasing cloud native analytics expertise."
+  },
+  "contact": {
+    "email": "patel.pooja81599@gmail.com",
+    "phone": "(832) 310-6000",
+    "githubUsername": "itspoojapatel15",
+    "linkedin": ""
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "POOJA PATEL - Portfolio",
+    "description": "Data Analyst with 3+ years of experience leveraging Python, SQL, Tableau, and Power BI to deliver data-driven insights. Led database optimization initiatives at Accenture, improving data retrieval speed by 40%. At PennyMac, reduced loan processing time by 20% by deploying machine learning models and optimizing data workflows. Architected real-time data warehouse integrating Snowflake with AWS S3 for Tesla sales data, showcasing cloud native analytics expertise."
+  }
+}

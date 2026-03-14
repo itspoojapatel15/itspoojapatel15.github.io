@@ -1,0 +1,18 @@
+{
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "POOJA PATEL | Data Analyst",
+    "description": "POOJA PATEL - Data Analyst | Portfolio",
+    "author": "POOJA PATEL",
+    "keywords": "Data Analyst, Portfolio, POOJA PATEL"
+  },
+  "branding": {
+    "name": "POOJA PATEL",
+    "tagline": "Data Analyst"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
+  }
+}

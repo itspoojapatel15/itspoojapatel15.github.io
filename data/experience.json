@@ -1,0 +1,32 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Data Analyst",
+      "company": "Solomon Edwards (PennyMac)",
+      "period": "August 2024 – April 2025",
+      "location": "",
+      "description": "Analyzed 200+ loan applications weekly using SQL, Python (Pandas, NumPy), and Excel, achieving a 98% data accuracy rate and cutting turnaround time by 20% through streamlined data workflows. Deployed machine learning models (Logistic Regression, Decision Trees) for loan discrepancy detection, increasing approval efficiency by 15% and strengthening risk assessment capabilities. Designed and maintained 5+ interactive Power BI and Tableau dashboards to visualize underwriting trends and KPIs, enabling data-driven decision-making for 10+ senior stakeholders across 3 departments. Performed data wrangling, exploratory data analysis (EDA), and statistical modeling across 12+ risk segments to identify patterns in loan performance data, improving underwriting accuracy by 10%.",
+      "responsibilities": [
+        "Analyzed 200+ loan applications weekly using SQL, Python (Pandas, NumPy), and Excel, achieving a 98% data accuracy rate and cutting turnaround time by 20% through streamlined data workflows",
+        "Deployed machine learning models (Logistic Regression, Decision Trees) for loan discrepancy detection, increasing approval efficiency by 15% and strengthening risk assessment capabilities",
+        "Designed and maintained 5+ interactive Power BI and Tableau dashboards to visualize underwriting trends and KPIs, enabling data-driven decision-making for 10+ senior stakeholders across 3 departments",
+        "Performed data wrangling, exploratory data analysis (EDA), and statistical modeling across 12+ risk segments to identify patterns in loan performance data, improving underwriting accuracy by 10%"
+      ]
+    },
+    {
+      "title": "Technical Support Specialist",
+      "company": "Accenture",
+      "period": "May 2021 – April 2023",
+      "location": "",
+      "description": "Managed and analyzed 500+ user setup datasets for KDOL agents using SQL and Python, reducing onboarding time by 25% through streamlined data pipelines and automated configuration workflows. Authored Python and SQL automation scripts for system configuration management, reducing manual effort by 30% and improving team operational efficiency. Led database optimization initiatives, cutting query response time by 40% for internal reporting tools through advanced SQL query tuning and indexing strategies. Collaborated cross-functionally with 4+ technical and business teams across 2 states to align data infrastructure with enterprise reporting requirements, supporting 1,000+ end users.",
+      "responsibilities": [
+        "Managed and analyzed 500+ user setup datasets for KDOL agents using SQL and Python, reducing onboarding time by 25% through streamlined data pipelines and automated configuration workflows",
+        "Authored Python and SQL automation scripts for system configuration management, reducing manual effort by 30% and improving team operational efficiency",
+        "Led database optimization initiatives, cutting query response time by 40% for internal reporting tools through advanced SQL query tuning and indexing strategies",
+        "Collaborated cross-functionally with 4+ technical and business teams across 2 states to align data infrastructure with enterprise reporting requirements, supporting 1,000+ end users"
+      ]
+    }
+  ]
+}
