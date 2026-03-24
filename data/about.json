@@ -2,16 +2,16 @@
   "_instructions": "About section content.",
   "sectionTitle": "About Me",
   "paragraphs": [
-    "Data Analyst with 3+ years of experience leveraging Python, SQL, Tableau, and Power BI to deliver data-driven insights. Led database optimization initiatives at Accenture, improving data retrieval speed by 40%.",
-    "At PennyMac, reduced loan processing time by 20% by deploying machine learning models and optimizing data workflows. Architected real-time data warehouse integrating Snowflake with AWS S3 for Tesla sales data, showcasing cloud native analytics expertise."
+    "I'm drawn to the kind of problem where the data exists but the answer isn't obvious — where you have to ask the right question before you can write a single line of code. Whether it's untangling messy, multi-source datasets or stress-testing a model's assumptions, I find the most satisfaction in the detective work that happens before any chart gets built.",
+    "My approach leans on rigor first and storytelling second: the analysis only earns the right to tell a story once the numbers hold up. That discipline, built across financial services, healthcare, and retail domains, is what I bring to every project — the habit of asking 'what would break this conclusion?' before presenting it."
   ],
   "statistics": [
     {
-      "value": "2+",
+      "value": "3+",
       "label": "Years Experience"
     },
     {
-      "value": "9+",
+      "value": "11",
       "label": "Projects Completed"
     },
     {

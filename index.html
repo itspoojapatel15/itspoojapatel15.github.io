@@ -6,7 +6,16 @@
     <meta name="description" content="Professional Portfolio" />
     <meta name="author" content="" />
     <meta name="keywords" content="" />
+    <meta property="og:title" content="Pooja Patel | Data Analyst Portfolio">
+    <meta property="og:description" content="Data Analyst with 3+ years of experience specializing in Python, SQL, Tableau, and Power BI. View projects, skills, and experience.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://itspoojapatel15.github.io">
+    <meta name="twitter:card" content="summary_large_image">
     <title>Portfolio</title>
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css" />
     <link
       rel="stylesheet"
@@ -14,122 +23,150 @@
     />
   </head>
   <body>
+    <a href="#home" class="skip-link">Skip to main content</a>
+
+    <!-- Loader -->
+    <div class="loader" id="loader">
+      <div class="loader-spinner"></div>
+    </div>
+
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
       <div class="container">
         <div class="nav-brand">
-          <a href="#home"></a>
+          <a href="#home">POOJA PATEL</a>
         </div>
-        <button class="nav-toggle" id="navToggle">
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
+        <div class="nav-actions">
+          <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+            <i class="fas fa-moon"></i>
+          </button>
+          <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
         <ul class="nav-menu" id="navMenu">
           <!-- Navigation items will be loaded dynamically -->
         </ul>
       </div>
     </nav>
 
-    <!-- Hero Section -->
-    <section id="home" class="hero">
-      <div class="container">
-        <div class="hero-content">
-          <h1 class="hero-title">
-            <span id="heroGreeting"></span> <span class="highlight" id="heroName"></span>
-          </h1>
-          <h2 class="hero-subtitle" id="heroTitle"></h2>
-          <p class="hero-description" id="heroSummary"></p>
-          <div class="hero-highlights" id="heroHighlights">
-            <!-- Highlights will be loaded dynamically -->
-          </div>
-          <div class="hero-cta" id="heroCTA">
-            <!-- CTA buttons will be loaded dynamically -->
-          </div>
-          <div class="social-links" id="heroSocial">
-            <!-- Social links will be loaded dynamically -->
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- About Section -->
-    <section id="about" class="about">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="about-content">
-          <div class="about-text" id="aboutText">
-            <!-- Paragraphs will be loaded dynamically -->
-          </div>
-          <div class="about-stats" id="aboutStats">
-            <!-- Statistics will be loaded dynamically -->
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Experience Section -->
-    <section id="experience" class="experience">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="timeline" id="experienceTimeline">
-          <!-- Experience items will be loaded dynamically -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Skills Section -->
-    <section id="skills" class="skills">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="skills-grid" id="skillsGrid">
-          <!-- Skills will be loaded dynamically -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Projects Section -->
-    <section id="projects" class="projects">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="projects-grid" id="projectsGrid">
-          <!-- Projects will be loaded dynamically -->
-        </div>
-      </div>
-    </section>
-
-    <!-- Education Section -->
-    <section id="education" class="education">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="education-content">
-          <div class="education-grid" id="educationGrid">
-            <!-- Education items will be loaded dynamically -->
-          </div>
-          <div class="certifications">
-            <h3></h3>
-            <div class="cert-grid" id="certGrid">
-              <!-- Certifications will be loaded dynamically -->
+    <main>
+      <!-- Hero Section -->
+      <section id="home" class="hero">
+        <div class="container">
+          <div class="hero-content">
+            <div class="hero-avatar">
+              <img src="assets/images/headshot.jpg" alt="Pooja Patel" width="140" height="140">
+            </div>
+            <h1 class="hero-title">
+              <span id="heroGreeting"></span> <span class="highlight" id="heroName"></span>
+            </h1>
+            <h2 class="hero-subtitle" id="heroTitle"></h2>
+            <p class="hero-description" id="heroSummary"></p>
+            <div class="hero-highlights" id="heroHighlights">
+              <!-- Highlights will be loaded dynamically -->
+            </div>
+            <div class="hero-cta" id="heroCTA">
+              <!-- CTA buttons will be loaded dynamically -->
+            </div>
+            <div class="social-links" id="heroSocial">
+              <!-- Social links will be loaded dynamically -->
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact">
-      <div class="container">
-        <h2 class="section-title"></h2>
-        <div class="contact-content">
-          <div class="contact-info" id="contactInfo">
-            <!-- Contact info will be loaded dynamically -->
-          </div>
-          <div class="contact-form-container" id="contactFormContainer">
-            <!-- Contact form will be loaded dynamically -->
+      <!-- About Section -->
+      <section id="about" class="about">
+        <div class="container">
+          <h2 class="section-title">About Me</h2>
+          <div class="about-content">
+            <div class="about-text" id="aboutText">
+              <!-- Paragraphs will be loaded dynamically -->
+            </div>
+            <div class="about-highlight">
+              "The analysis only earns the right to tell a story once the numbers hold up."
+            </div>
+            <div class="about-stats" id="aboutStats">
+              <!-- Statistics will be loaded dynamically -->
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+
+      <!-- Experience Section -->
+      <section id="experience" class="experience">
+        <div class="container">
+          <h2 class="section-title">Professional Experience</h2>
+          <div class="timeline" id="experienceTimeline">
+            <!-- Experience items will be loaded dynamically -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Skills Section -->
+      <section id="skills" class="skills">
+        <div class="container">
+          <h2 class="section-title">Skills & Technologies</h2>
+          <p class="section-subtitle">Core tools and methods I use to turn raw data into decisions.</p>
+          <div class="skills-grid" id="skillsGrid">
+            <!-- Skills will be loaded dynamically -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Projects Section -->
+      <section id="projects" class="projects">
+        <div class="container">
+          <h2 class="section-title">Featured Projects</h2>
+          <p class="section-subtitle">End-to-end analytics from data ingestion to stakeholder-ready insights.</p>
+          <div class="project-filters" id="projectFilters">
+            <button class="filter-btn active" data-filter="all">All Projects</button>
+            <button class="filter-btn" data-filter="featured">Featured Projects</button>
+            <button class="filter-btn" data-filter="github">GitHub Repos</button>
+          </div>
+          <div class="projects-grid" id="projectsGrid">
+            <!-- Projects will be loaded dynamically -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Education Section -->
+      <section id="education" class="education">
+        <div class="container">
+          <h2 class="section-title">Education</h2>
+          <div class="education-content">
+            <div class="education-grid" id="educationGrid">
+              <!-- Education items will be loaded dynamically -->
+            </div>
+            <div class="certifications">
+              <h3></h3>
+              <div class="cert-grid" id="certGrid">
+                <!-- Certifications will be loaded dynamically -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Contact Section -->
+      <section id="contact" class="contact">
+        <div class="container">
+          <h2 class="section-title">Get In Touch</h2>
+          <p class="section-subtitle section-subtitle--left">Open to data analyst roles, freelance analytics projects, and collaboration opportunities.</p>
+          <div class="contact-content">
+            <div class="contact-info" id="contactInfo">
+              <!-- Contact info will be loaded dynamically -->
+            </div>
+            <div class="contact-form-container" id="contactFormContainer">
+              <!-- Contact form will be loaded dynamically -->
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
 
     <!-- Footer -->
     <footer class="footer">

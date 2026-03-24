@@ -1,22 +1,20 @@
 {
-  "_instructions": "Hero section content - the first thing visitors see on your portfolio.",
   "greeting": "Hi, I'm",
   "name": "POOJA PATEL",
   "title": "Data Analyst",
-  "summary": "Data Analyst with 2+ years of experience specializing in Python, R, SQL.",
-  "avatarUrl": "/avatar.png",
+  "summary": "Data Analyst with <strong>3+ years of experience</strong> transforming raw data into actionable insights using <strong>Python, SQL, Tableau, and Power BI</strong>. From optimizing loan workflows at PennyMac to building cloud-native data warehouses on Snowflake & AWS.",
   "highlights": [
     {
-      "icon": "fas fa-briefcase",
-      "text": "Professional Experience"
+      "icon": "fas fa-tachometer-alt",
+      "text": "40% Query Optimization"
     },
     {
-      "icon": "fas fa-code",
-      "text": "Technical Expertise"
+      "icon": "fas fa-bullseye",
+      "text": "98% Data Accuracy"
     },
     {
-      "icon": "fas fa-users",
-      "text": "Team Collaboration"
+      "icon": "fas fa-database",
+      "text": "11 End-to-End Projects"
     }
   ],
   "cta": {
@@ -37,8 +35,13 @@
   },
   "socialLinks": [
     {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/poojapatel0815",
+      "icon": "fab fa-linkedin"
+    },
+    {
       "platform": "GitHub",
-      "url": "https://github.com/poojapatel81599",
+      "url": "https://github.com/itspoojapatel15",
       "icon": "fab fa-github"
     },
     {

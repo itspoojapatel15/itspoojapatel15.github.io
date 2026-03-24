@@ -1,7 +1,7 @@
 {
-  "name": "adarsh-umesh-portfolio",
+  "name": "pooja-patel-portfolio",
   "version": "1.0.0",
-  "description": "Professional portfolio website for Adarsh Umesh - Product Manager & Full-Stack Engineer",
+  "description": "Portfolio website for Pooja Patel - Data Analyst",
   "main": "index.html",
   "scripts": {
     "start": "python -m http.server 8000",
@@ -10,21 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adarshumesh5/adarsh-umesh-portfolio.git"
+    "url": "https://github.com/itspoojapatel15/itspoojapatel15.github.io.git"
   },
   "keywords": [
     "portfolio",
-    "product-manager",
-    "full-stack",
-    "engineer",
-    "web-development",
-    "resume",
+    "data-analyst",
+    "data-science",
+    "python",
+    "sql",
     "personal-website"
   ],
-  "author": "Adarsh Umesh <connect2adarshum@gmail.com>",
+  "author": "Pooja Patel <patel.pooja81599@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adarshumesh5/adarsh-umesh-portfolio/issues"
+    "url": "https://github.com/itspoojapatel15/itspoojapatel15.github.io/issues"
   },
-  "homepage": "https://github.com/adarshumesh5/adarsh-umesh-portfolio#readme"
+  "homepage": "https://itspoojapatel15.github.io"
 }

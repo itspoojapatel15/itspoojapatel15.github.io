@@ -44,25 +44,18 @@
       ]
     },
     {
-      "category": "Technical Skills",
+      "category": "Data Science & Analytics",
       "icon": "fas fa-laptop-code",
       "skills": [
         "Logistic Regression",
         "Decision Trees",
         "Random Forest",
-        "Predictive Modeling",
         "Hypothesis Testing",
         "Regression Analysis",
-        "EDA",
+        "Exploratory Data Analysis",
         "ETL Pipelines",
         "Web Scraping",
-        "Data Wrangling",
-        "Data Mining",
-        "Statistical Modeling",
-        "Business Intelligence",
-        "Process Automation",
-        "Dashboard Development",
-        "Cross-functional Collaboration"
+        "Statistical Modeling"
       ]
     }
   ]

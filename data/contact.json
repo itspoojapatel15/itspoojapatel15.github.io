@@ -24,11 +24,18 @@
       "href": null
     },
     {
+      "type": "linkedin",
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "value": "Pooja Patel",
+      "href": "https://www.linkedin.com/in/poojapatel0815"
+    },
+    {
       "type": "github",
       "icon": "fab fa-github",
       "label": "GitHub",
-      "value": "@poojapatel81599",
-      "href": "https://github.com/poojapatel81599"
+      "value": "@itspoojapatel15",
+      "href": "https://github.com/itspoojapatel15"
     }
   ],
   "form": {
